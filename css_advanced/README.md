@@ -4,7 +4,7 @@
 
 For this project, you  will focus on the CSS and the style of the page.
 
-![Cover](https://github.com/annlaure02/holbertonschool-web-development/tree/main/css_advanced/websitefinal.jpg)
+![websitefinal](https://github.com/annlaure02/holbertonschool-web-development/assets/113631115/ccaaa1b8-c46f-45a7-8e21-608f4bc89457)
 
 ## Learning Objectives
 * What is HTML
