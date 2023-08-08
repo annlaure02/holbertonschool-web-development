@@ -1,4 +1,4 @@
-# HTML, advanced
+# CSS, advanced
 
 ## Objective
 
