@@ -7,13 +7,13 @@ For this project, you  will focus on the CSS and the style of the page.
 ![websitefinal](https://github.com/annlaure02/holbertonschool-web-development/assets/113631115/ccaaa1b8-c46f-45a7-8e21-608f4bc89457)
 
 ## Learning Objectives
-* What is HTML
-* How to create an HTML page from a wireframe
-* What is a markup language
-* What is the DOM
-* What is an element / tag
-* What is an attribute
-* What the purpose of each HTML tag
+* What is CSS
+* How to add style to an element
+* What is a class
+* What is a selector
+* How to compute CSS Specificity Value
+* What are Box properties in CSS
+* How does the browser load a webpage
 
 ## Requirements
 * All your files should end with a new line
