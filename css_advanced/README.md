@@ -2,9 +2,9 @@
 
 ## Objective
 
-For this project, you will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.
+For this project, you  will focus on the CSS and the style of the page.
 
-
+![Cover](https://github.com/annlaure02/holbertonschool-web-development/tree/main/css_advanced/websitefinal.jpg)
 
 ## Learning Objectives
 * What is HTML
