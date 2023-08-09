@@ -10,16 +10,14 @@ body{
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top;
-  margin: 35.02px 171.59px 35.02px 171.59px;
-  font-family: 'Source Sans Pro Regular';
+  font-family: Source Sans Pro;
   color: #FFFFFF;
-
 }
 
 header {
   display: flex;
   justify-content: space-between;
-  margin-top: 15px;
+  margin: 35.02px 171.59px 35.02px 171.59px;
 }
 
 a {
@@ -47,7 +45,8 @@ a {
 }
 
 .main-part1 p {
-  word-spacing: 65px;
+  word-spacing: 60px;
+  margin-top: 10px;
   font-size: 16px;
   font-weight: bold;
 }
@@ -80,7 +79,8 @@ h2 {
 .pros {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 90px;
+  margin-bottom: 220px;
 }
 
 .pro1, .pro2, .pro3, .pro4 {
@@ -105,3 +105,34 @@ h2 {
   margin-top: 5px;
   line-height: 30px;
 }
+
+.testimonials-section {
+  background-color: #c271ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 392px;
+  margin-top: -16px;
+}
+
+.testimonials {
+  display: flex;
+  width: 943px;
+  height: 160px;
+  font-size: 22px;
+}
+
+.testimonials img {
+  margin-right: 53px;
+}
+
+.person-name {
+  font-weight: bold;
+  margin-top: 45px;
+}
+
+.weather-presenter {
+  font-style: italic;
+  margin-top: 5px;
+}
+
