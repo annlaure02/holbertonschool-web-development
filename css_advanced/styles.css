@@ -10,7 +10,7 @@ body{
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top;
-  font-family: Source Sans Pro;
+  font-family: 'Source Sans Pro';
   color: #FFFFFF;
 }
 
@@ -286,6 +286,10 @@ span {
   margin-bottom: 90px;
 }
 
+.faq-row2 {
+  margin-bottom: 100px;
+}
+
 .faq-items-block1, .faq-items-block2 {
   width: 350px;
 }
@@ -304,4 +308,33 @@ span {
   opacity: 50.16%;
   font-size: 14px;
   margin-top: 30px;
+}
+
+footer {
+  background-color: #071629;
+  color: #FFFFFF;
+  height: 249px;
+}
+
+.part1-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 171.59px;
+  margin-right: 350px;
+}
+
+.part1-footer img {
+  margin-top: 110px;
+}
+
+.social1, .social2 {
+  margin-right: 25px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 12px;
+  opacity: 40%;
+  margin-top: 60px;
 }
