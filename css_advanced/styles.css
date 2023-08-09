@@ -222,3 +222,42 @@ span {
   font-weight: 550;
   margin-left: 80px;
 }
+
+.free-membership {
+  background-color: #071629;
+  text-align: center;
+  height: 502px;
+}
+
+.free-membership h1 {
+  font-size: 32px;
+  font-weight: lighter;
+  padding-top: 65px;
+}
+
+.members {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.member1, .member2, .member3, .member4 {
+  width: 257px;
+}
+
+.member1, .member2, .member3 {
+  margin-right: 50px;
+}
+
+.members h2 {
+  font-size: 18px;
+  font-weight: 550;
+  margin-top: 30px;
+}
+
+.members p {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
