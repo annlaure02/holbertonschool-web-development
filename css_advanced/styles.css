@@ -1,0 +1,107 @@
+@import url(https://www.fontsquirrel.com/fonts/source-sans-pro);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url(./Images/background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+  margin: 35.02px 171.59px 35.02px 171.59px;
+  font-family: 'Source Sans Pro Regular';
+  color: #FFFFFF;
+
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo-link, .link1, .link2, .link3 {
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.logo-link, .link1, .link2 {
+  margin-right: 60px;
+}
+
+.main-part1 {
+  margin-top: 250px;
+  text-align: center;
+}
+
+.main-part-title {
+  font-size: 120px;
+  font-weight: bold;
+}
+
+.main-part1 p {
+  word-spacing: 65px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-register {
+  background-color: #C271FF;
+  color: #FFFFFF;
+  width: 162px;
+  height: 44px;
+  border-radius: 25px;
+  border: none;
+  box-shadow: 1px 1px 12px #000000;
+  font-size: 14px;
+  font-weight: 550;
+  margin-top: 50px;
+}
+
+span {
+  color: #C271FF;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: lighter;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.pros {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.pro1, .pro2, .pro3, .pro4 {
+  width: 150px;
+  height: 237px;
+}
+
+.pro1, .pro2, .pro3 {
+  margin-right: 190px;
+}
+
+.pros h3 {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+  margin-top: 14px;
+}
+
+.pros p {
+  font-style: italic;
+  text-align: center;
+  margin-top: 5px;
+  line-height: 30px;
+}
