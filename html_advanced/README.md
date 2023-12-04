@@ -6,9 +6,6 @@ For this project, you will focus on the HTML structure only - no CSS, no style -
 
 ![websitefinal](https://github.com/annlaure02/holbertonschool-web-development/assets/113631115/ccaaa1b8-c46f-45a7-8e21-608f4bc89457)
 
-
-![phalbm25958794](https://github.com/annlaure02/holbertonschool-web-development/assets/113631115/6010cdf4-c8a9-4130-8459-919cd85d6454)
-
 ## Learning Objectives
 * What is HTML
 * How to create an HTML page from a wireframe
